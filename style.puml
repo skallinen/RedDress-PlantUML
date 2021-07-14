@@ -1,7 +1,7 @@
 @startuml
 
 !if (%not(%variable_exists("$FONTNAME")))
-!$FONTNAME = "Verdana"
+!$FONTNAME = "Helvetica"
 !endif
 
 !if (%not(%variable_exists("$FONTSIZE")))
